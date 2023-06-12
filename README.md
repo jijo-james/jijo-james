@@ -29,7 +29,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Data Engineering**
+- 🔭 I’m currently working on **Software Engineering**
 - 🌱 I’m currently learning **Data Engineering** (still exploring the field). I'm also slowly learning **Web Development with FastAPI**
 - 👯 I’m looking to collaborate on FastAPI & Data Engineering projects
 - 🤔 I’m looking for help with Cloud-Native in the space of Data Engineering
