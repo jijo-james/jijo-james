@@ -30,11 +30,11 @@
 ---
 
 - 🔭 I’m currently working on **Software Engineering**
-- 🌱 I’m currently learning **Data Engineering** (still exploring the field). I'm also slowly learning **Web Development with FastAPI**
-- 👯 I’m looking to collaborate on FastAPI & Data Engineering projects
-- 🤔 I’m looking for help with Cloud-Native in the space of Data Engineering
-- 💬 Ask me about anything about solving problems using data and/or engineering
-- 📫 How to reach me: Feel free to reach out to me via LinkedIn, Twitter and Mail
+- 🌱 I’m currently learning **Backend Engineering** (still exploring the field). I'm also slowly learning **Microservices**
+- 👯 I’m looking to collaborate on FastAPI & Python projects
+- 🤔 I’m looking for help with Cloud-Native in the space of Software Engineering specifically Distributed Systems
+- 💬 Ask me about anything about solving problems using data and engineering
+- 📫 How to reach me: Feel free to reach out to me via LinkedIn, Twitter, and Mail
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm addicted to movies and hiking, tech too... 
 
